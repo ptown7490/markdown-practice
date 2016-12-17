@@ -15,13 +15,13 @@ Add sound packages to builds
 
 ## Directory structure
 * Sleep Machine
-** 3rd Party
-** Common source
-** Resources
-** Sleep Machine Lite
-** Sleep Machine Pro
-** Sleep Machine ProTests
-** Sleep Machine.xcodeproj
-** SleepSoft.wcworkspace
+  - 3rd Party
+  - Common source
+  - Resources
+  - Sleep Machine Lite
+  - Sleep Machine Pro
+  - Sleep Machine ProTests
+  - Sleep Machine.xcodeproj
+  - SleepSoft.wcworkspace
 * SoundSources
 * Tools
